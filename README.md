@@ -6,7 +6,7 @@ and Random Forest. For wine quality classification, the system reaches an 81.1% 
 that Principal Component Analysis (PCA) feature selection and cross-validation pipelines significantly improve
 success rates.
 
-#🍷Study Summary
+# 🍷Study Summary
 
 Objective: Predict wine type (red vs. white) and grade its overall quality.
 Dataset: Physicochemical features (alcohol, pH, magnesium, acids) from UCI ML Repository.
